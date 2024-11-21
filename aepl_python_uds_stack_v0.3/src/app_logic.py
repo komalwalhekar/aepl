@@ -37,7 +37,7 @@ def create_gui():
     
     # Start the tkinter event loop
     root.mainloop()
-# Run the app
+
  
 def connect_to_can_bus():
     # Parameters to initialize CAN connection
